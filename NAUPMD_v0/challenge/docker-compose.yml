@@ -7,4 +7,4 @@ services:
       - ./share:/home/chal:ro
       - ./xinetd:/etc/xinetd.d/chal:ro
     ports:
-      - 41423:41423
+      - 40000:40000
