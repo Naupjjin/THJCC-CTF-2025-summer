@@ -3,4 +3,4 @@
 
 | challenge | Category | Difficult | Description |
 |-----------|----------|-----------|-------------|
-|NAUPMD v0 | Pwn | Insane | calloc + strok leak libc |
+|NAUPMD v0.0.1 📒📕📘 | Pwn | Insane | calloc + strok leak libc |
