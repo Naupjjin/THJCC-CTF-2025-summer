@@ -1,0 +1,17 @@
+NAUPMD v0.0.0 
+-------------
+Add Note: 
+You can create notes and edit their content
+EX input: aa,bb,cc
+aa -> input content
+bb -> input content
+cc -> input content
+------------
+Delete Note:
+Input index and that note will be free
+EX input: 1
+Index 1's note will be delete.
+-----------
+Show Note:
+Call this function and it will show all note's content.
+-----------
