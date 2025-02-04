@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  pwn-naupmd:
+    build: ./
+    volumes:
+      - ./share:/home/chal:ro
+      - ./xinetd:/etc/xinetd.d/chal:ro
+    ports:
+      - 41423:41423
