@@ -100,7 +100,7 @@ If we can leak libc, we can get shell.
 So this challenge target is leak libc.
 
 Finally, we check this challenge the most important function. `Create note`
-```
+```c
 void CREATE_NOTE() {
     
     int input_size;
