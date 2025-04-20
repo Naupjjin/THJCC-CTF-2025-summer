@@ -238,7 +238,7 @@ void build_note(const char* title, int index) {
 ```
 
 Yeah! So we get one UAF! And use it to leak libc.
-And caculate atoi's address and call backdoor, we will get shell.
+And caculate atoi's address and call backdoor, we will get shell. 🎉
 
 ## exploit
 ```py
